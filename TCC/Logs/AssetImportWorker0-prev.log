@@ -1,107 +1,374 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19044.2728; Version 2009; 64bit' Language: 'pt' Physical Memory: 16315 MB
+OS: 'Windows 10 Pro; OS build 19045.2728; Version 2009; 64bit' Language: 'pt' Physical Memory: 16339 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-D:\Unity\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/PC/GitHub/Jogo-TCC/TCC
+C:/Users/Uncar/OneDrive/Documentos/GitHub/Jogo_TCC/Jogo-TCC/TCC
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64419
-Successfully changed project path to: D:/PC/GitHub/Jogo-TCC/TCC
-D:/PC/GitHub/Jogo-TCC/TCC
+52517
+Successfully changed project path to: C:/Users/Uncar/OneDrive/Documentos/GitHub/Jogo_TCC/Jogo-TCC/TCC
+C:/Users/Uncar/OneDrive/Documentos/GitHub/Jogo_TCC/Jogo-TCC/TCC
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 55.78 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 27.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
-[Subsystems] Discovering subsystems at path D:/Unity/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/PC/GitHub/Jogo-TCC/TCC/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Uncar/OneDrive/Documentos/GitHub/Jogo_TCC/Jogo-TCC/TCC/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
     Vendor:   
-    VRAM:     3943 MB
-    Driver:   31.0.15.2756
+    VRAM:     4018 MB
+    Driver:   31.0.15.1694
 Initialize mono
-Mono path[0] = 'D:/Unity/Editor/Data/Managed'
-Mono path[1] = 'D:/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/Unity/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56132
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001446 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004155 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 42.21 ms, found 1 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.78 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.375 seconds
+- Completed reload, in  1.812 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001414 seconds.
+Registered in 0.001263 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 38.69 ms, found 1 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.074 seconds
+- Completed reload, in  1.087 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.8 MB.
-System memory in use after: 84.7 MB.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
-Total: 3.698800 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.094500 ms MarkObjects: 3.038700 ms  DeleteObjects: 0.262000 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(f3a3bb0c13366c04ebe079e9e979b705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(f3a3bb0c13366c04ebe079e9e979b705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4864bb2e1a7fc2445fc687f67712f8dc') in 0.065285 seconds
-  Import took 0.101014 seconds .
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 2.062700 ms (FindLiveObjects: 0.142600 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.801600 ms  DeleteObjects: 0.073100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2310208df74c583216671dde88d47ab') in 0.017051 seconds
-  Import took 0.031854 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.903106 seconds.
   path: Assets/Scenes/Teste.unity
   artifactKey: Guid(7d3b1de18b3591b44a4932300f7bdd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Teste.unity using Guid(7d3b1de18b3591b44a4932300f7bdd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e3bbb87fa8ebad1746ae7228736aa8') in 0.009069 seconds
-  Import took 0.025023 seconds .
+Start importing Assets/Scenes/Teste.unity using Guid(7d3b1de18b3591b44a4932300f7bdd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca1740d3f8872237b655183e4cb08457') in 0.020497 seconds
+  Import took 0.022666 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001068 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.038 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1143 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.9 MB.
+System memory in use after: 58.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 5.795600 ms (FindLiveObjects: 0.156000 ms CreateObjectMapping: 0.047200 ms MarkObjects: 5.566900 ms  DeleteObjects: 0.023900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.190667 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848edcda9c9586d20c218c099666c995') in 0.005221 seconds
-  Import took 0.009375 seconds .
+  Time since last request: 1338.875805 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b88c722c595578347b266a4324abaaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b88c722c595578347b266a4324abaaec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3292f73e129a3cefdf56eff310bf455e') in 0.014567 seconds
+  Import took 0.017933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.255497 seconds.
+  path: Assets/Scenes/Assets_City.png
+  artifactKey: Guid(0ec61e6eae0b4b441beae2414f8a4a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Assets_City.png using Guid(0ec61e6eae0b4b441beae2414f8a4a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72bdf72d9a6ecaaecccf9d3b556870d8') in 0.118998 seconds
+  Import took 0.121481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.395833 seconds.
+  path: Assets/Scenes/tileset_city_free.png
+  artifactKey: Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tileset_city_free.png using Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e66208dc224b264fd21ee6f6abc0f95') in 0.017649 seconds
+  Import took 0.019669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001829 seconds.
+  path: Assets/Scenes/background_tileset_city_free.png
+  artifactKey: Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/background_tileset_city_free.png using Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9103a5c67d7db601a6f7b51a5f2b53a') in 0.017395 seconds
+  Import took 0.019333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Scenes/tilemap_free_city_09.png
+  artifactKey: Guid(35dffb815d511ef41a66cc743ead0cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_09.png using Guid(35dffb815d511ef41a66cc743ead0cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78aaccf09085aa81eea076ab5e274e2') in 0.021753 seconds
+  Import took 0.023950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000731 seconds.
+  path: Assets/Scenes/tilemap_free_city_05.png
+  artifactKey: Guid(c80596e0e79faf84095cec179102aad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_05.png using Guid(c80596e0e79faf84095cec179102aad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d501d535e19cdc2042b36e9e527f318') in 0.017653 seconds
+  Import took 0.019663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Scenes/tilemap_free_city_10.png
+  artifactKey: Guid(590d85c2fcdbaf34a9dbfa3e3f8f4d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_10.png using Guid(590d85c2fcdbaf34a9dbfa3e3f8f4d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee341d1cb04cdf42fe4974a825bca92b') in 0.015378 seconds
+  Import took 0.017617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Scenes/tilemap_free_city_06.png
+  artifactKey: Guid(3b831ab846772f44f86620ddfd7446d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_06.png using Guid(3b831ab846772f44f86620ddfd7446d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef4fed6afb8845fae71263e018f0182') in 0.015843 seconds
+  Import took 0.017929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Scenes/tilemap_free_city_03.png
+  artifactKey: Guid(2bee3271ac3e55942a3d7c652f90f8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_03.png using Guid(2bee3271ac3e55942a3d7c652f90f8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540c1fcf20c95a746f7e3730bf058d1c') in 0.015397 seconds
+  Import took 0.017376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Scenes/tilemap_free_city_01.png
+  artifactKey: Guid(5d786b826d094c8489989cd86a80155f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_01.png using Guid(5d786b826d094c8489989cd86a80155f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2013be29606317e26e367f9c8ac886ea') in 0.014650 seconds
+  Import took 0.016875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Scenes/escenarios_juntos.png
+  artifactKey: Guid(c67f87179660e6643baa5d321290ff53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/escenarios_juntos.png using Guid(c67f87179660e6643baa5d321290ff53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a778beed0a63a09a3426fdac4bf7644') in 0.020365 seconds
+  Import took 0.022529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Scenes/tilemap_free_city_04.png
+  artifactKey: Guid(72a210678a2ca6d49b8a18386dbc71d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_04.png using Guid(72a210678a2ca6d49b8a18386dbc71d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca46f2871ae706c154db22ce9b520039') in 0.013635 seconds
+  Import took 0.015988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Scenes/tilemap_free_city_08.png
+  artifactKey: Guid(296e8bd0fec42594683ef389e6d681f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_08.png using Guid(296e8bd0fec42594683ef389e6d681f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a75689034d47067d66f20de87492a9') in 0.016018 seconds
+  Import took 0.018403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scenes/tilemap_free_city_07.png
+  artifactKey: Guid(cbfd505c07b36eb4a8827c7d58ec6412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_07.png using Guid(cbfd505c07b36eb4a8827c7d58ec6412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042bd883b536a9f491aa242bfeb62297') in 0.015340 seconds
+  Import took 0.017449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Scenes/tilemap_free_city_02.png
+  artifactKey: Guid(561a3567eb4ef5f4a97909c92111b3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tilemap_free_city_02.png using Guid(561a3567eb4ef5f4a97909c92111b3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96af3a82b63ec8b150c5b029bcfb66a0') in 0.016649 seconds
+  Import took 0.019103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.515245 seconds.
+  path: Packages/com.unity.2d.sprite/package.json
+  artifactKey: Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/package.json using Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a75ff1adb2fa3315843e1410d8a3519') in 0.024811 seconds
+  Import took 0.029417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.283845 seconds.
+  path: Assets/Assets_city.aseprite
+  artifactKey: Guid(1230da526535dff4d9841ec57c604327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_city.aseprite using Guid(1230da526535dff4d9841ec57c604327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b36adb1d2b86d402117fd9d8216e50') in 0.013514 seconds
+  Import took 0.015476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.836415 seconds.
+  path: Assets/Scenes/tileset_city_free.png
+  artifactKey: Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tileset_city_free.png using Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7023cd8c59ce6c4ddfac066199595de4') in 0.015640 seconds
+  Import took 0.018912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002779 seconds.
+  path: Assets/Scenes/tileset_city_free.png
+  artifactKey: Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tileset_city_free.png using Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7023cd8c59ce6c4ddfac066199595de4') in 0.015942 seconds
+  Import took 0.018086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.647642 seconds.
+  path: Assets/Scenes/tileset_city_free.png
+  artifactKey: Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tileset_city_free.png using Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64fd829a5debc851f95984d8b2f9f96a') in 0.014559 seconds
+  Import took 0.017570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003631 seconds.
+  path: Assets/Scenes/tileset_city_free.png
+  artifactKey: Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tileset_city_free.png using Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64fd829a5debc851f95984d8b2f9f96a') in 0.012436 seconds
+  Import took 0.014531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.608525 seconds.
+  path: Assets/Scenes/tileset_city_free.png
+  artifactKey: Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tileset_city_free.png using Guid(d96300c052d1b5a43905e2dd443615fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '035e44752826c6b632e9b316d88ebd11') in 0.117547 seconds
+  Import took 0.119988 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1183 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.2 MB.
+System memory in use after: 62.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 2.234800 ms (FindLiveObjects: 0.166100 ms CreateObjectMapping: 0.043600 ms MarkObjects: 2.008500 ms  DeleteObjects: 0.015300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000943 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.853 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1444 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1915.
+Total: 1.817100 ms (FindLiveObjects: 0.158600 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.509900 ms  DeleteObjects: 0.088700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4297.434718 seconds.
+  path: Assets/Scenes/background_tileset_city_free.png
+  artifactKey: Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/background_tileset_city_free.png using Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d5f5bcab946b4ee1fa171fb0a7e302') in 0.181416 seconds
+  Import took 0.218899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.294060 seconds.
+  path: Assets/Scenes/background_tileset_city_free.png
+  artifactKey: Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/background_tileset_city_free.png using Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae65858792b795d23ea0614b31d39eb') in 0.020426 seconds
+  Import took 0.025070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.741019 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837c7e046774477854535a87ba86bfce') in 0.028785 seconds
+  Import took 0.031808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.981223 seconds.
+  path: Assets/Scenes/background_tileset_city_free.png
+  artifactKey: Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/background_tileset_city_free.png using Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d575f650536d1c0feecfde9f2f4e85') in 0.016796 seconds
+  Import took 0.019387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001706 seconds.
+  path: Assets/Scenes/background_tileset_city_free.png
+  artifactKey: Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/background_tileset_city_free.png using Guid(f045fb4dbf5328145992f65603ff723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d575f650536d1c0feecfde9f2f4e85') in 0.012198 seconds
+  Import took 0.015079 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
